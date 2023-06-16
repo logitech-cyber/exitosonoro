@@ -1,0 +1,5 @@
+pandas==2.0.2
+scikit-learn==1.2.2
+numpy==1.24.3
+xgboost==1.7.5
+gradio==3.35.2
